@@ -5,7 +5,7 @@ Este é um simples Timer construído em React + TypeScript.
 
 ## Instalação
 1. Clone este repositório: `git clone https://github.com/AnaVitorio/timer-react.git`
-2. Navegue até o diretório do projeto: `cd toDoList`
+2. Navegue até o diretório do projeto: `cd timer-react`
 3. Instale as dependências: `npm install`
 
 ## Como Usar
