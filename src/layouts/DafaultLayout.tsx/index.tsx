@@ -1,12 +1,13 @@
 import { Outlet } from "react-router-dom";
-import { Header } from "../componentes/Header";
+import { Header } from "../../componentes/Header";
+import { LayoutContainer } from "./styles";
 
 export function DefaultLayout(){
     return(
-        <div>
+        <LayoutContainer>
             <Header/>
             {/* Outlet é o espaço reservado para o proximo conteúdo */}
             <Outlet/> 
-        </div>
+        </LayoutContainer>
     )
 }
