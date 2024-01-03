@@ -16,4 +16,4 @@ Este é um simples Timer construído em React + TypeScript.
 ## Tecnologias Utilizadas
 * React
 * Typescript
-* CSS Module
+* Styled-Components
